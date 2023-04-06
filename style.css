@@ -1,0 +1,58 @@
+.container {
+    /* width: 200px; */
+    height: 200%;
+    border:  solid black;
+    border-radius: 10px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-control {
+    margin: 20px;
+}
+
+/* biodata */
+.isibiodata{
+    /* background-color: greenyellow;  */
+    margin: 50px 0px 50px 0px;
+}
+input{
+    size: 200%;
+}
+
+body {
+    background-image:url(https://static-cse.canva.com/blob/572643/2.Freephotos.jpg);
+    background-size: cover;
+}
+
+tr {
+    /* background-color: brown; */
+    margin: 20px;
+}
+
+/* tombol submit */
+#submitbuton {
+    background-color: green;
+}
+#submit-btn {
+
+    background-color: gray;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    border: 3px solid blue; 
+}
+
+.row {
+    margin: 20px;
+}
+  
+input{
+    size: 5;
+}
+
